@@ -1,0 +1,36 @@
+.flex{
+    display:flex;
+
+}
+h3{
+    margin-top: 20px;
+    
+    border: 5px double white;
+    padding: 5px ;
+    border-radius: 8px;
+}
+#added{
+    background-color: lightsalmon;
+    padding: 5px;
+    border: 5px double lightgreen;
+    border-radius: 10px;
+}
+#total{
+    background-color: lightsalmon;
+    padding: 5px;
+    border: 5px double lightgreen;
+    border-radius: 10px;
+}
+#deducted{
+    background-color: lightskyblue;
+    padding: 5px;
+    border: 5px double lightgreen;
+    border-radius: 10px;
+}
+#actual{
+    background-color: rgb(49, 202, 202);
+    padding: 5px;
+    border: 5px double lightgreen;
+    border-radius: 10px;
+}
+    
