@@ -33,4 +33,7 @@ h3{
     border: 5px double lightgreen;
     border-radius: 10px;
 }
+.Closed{
+    text-decoration: line-through;
+}
     
